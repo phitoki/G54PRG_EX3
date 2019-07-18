@@ -3,12 +3,6 @@
 """
 Created on Sun Oct 28 14:33:22 2018
 
-@author: Philipp Kirschthaler
-
-student ID: 2001532821
-
-Nicolai
-
 """
 
 
